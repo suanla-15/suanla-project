@@ -2,4 +2,9 @@
 
 
 
+<<<<<<< HEAD
 2222222-修复Bug
+=======
+
+function from add ======2222
+>>>>>>> login
